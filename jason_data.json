@@ -1,0 +1,20 @@
+{
+"p1":
+    {
+      "name": "Pradeep",
+      "age": "29",
+      "company" : "mavitech"
+    },
+"p2":
+    {
+      "name": "Vijay",
+      "age": "25",
+      "company" : "Mavitech"
+    },
+"p3":
+    {
+      "name": "mohan",
+      "age": "25",
+      "company" : "Mavitech"
+    }
+}
